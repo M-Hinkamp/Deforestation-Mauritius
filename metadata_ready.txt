@@ -1,0 +1,21 @@
+This folder contains all of the files used as input for the model:
+- agr_suitab: agricultural suitability:
+	1 agr_suitab_h.txt: agricultural suitability classes. If an area has two classes, the highest is used.	
+	2 agr_suitab_l.txt: agricultural suitability classes. If an area has two classes, the lowest is used.
+
+- DEM: digital elevation model:
+	1 dem.txt
+
+- dist_coast: distance to the coast:
+	1 dist_coast.txt
+
+- forest_ext: forest extent for several years:
+	1 forest_1638.txt: forest extent in 1638.
+	2 forest_1773.txt: forest extent in 1773.
+	3 forest_1835.txt: forest extent in 1835.
+	4 forest_1872.txt: forest extent in 1872.
+	5 forest_1935.txt: forest extent in 1935.
+	6 forest_1993.txt: forest extent in 1993.
+
+- slope: slope angle in degrees:
+	1 slope.txt

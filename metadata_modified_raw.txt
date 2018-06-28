@@ -1,0 +1,33 @@
+This folder contains the modified raw data:
+- agr_suitab: 
+	1 two georeferenced .tif files (conversions from the original map) for Mauritius 
+	2 agr_suitab.shp: land unit mapping signal according to original map
+	
+- coast_dist: 
+	1 sea.shp: shapefile with a body of water around the island. Used to calculate the distance to the coast.
+
+- DEM:
+	1 DEM.tif: converted digital elevation model with the elevation in metres (cells of 100x100m).
+
+- forest_ext:
+	1 forest_1638.shp: shapefile with the forest extent in 1638 and a body of water around the island (forest=2, deforested =1, water=0).
+	2 forest_1773.shp: shapefile with the forest extent in 1773 and a body of water around the island (forest=2, deforested =1, water=0).
+	3 forest_1835.shp: shapefile with the forest extent in 1835 and a body of water around the island (forest=2, deforested =1, water=0).
+	4 forest_1872.shp: shapefile with the forest extent in 1872 and a body of water around the island (forest=2, deforested =1, water=0).
+	5 forest_1935.shp: shapefile with the forest extent in 1935 and a body of water around the island (forest=2, deforested =1, water=0).
+	6 forest_1997.shp: shapefile with the forest extent in 1997 and a body of water around the island (forest=2, deforested =1, water=0).
+
+- slope:
+	1 slope_angle: raster file with the slope angle in degrees, based on the DEM (cells of 100x100m). 
+
+- settlement:
+	1 Baie_aux_Tortues.shp: shapefile with the location of a settlement.
+	2 Black_River.shp: shapefile with the location of a settlement.
+	3 Flacq.shp: shapefile with the location of a settlement.
+	4 Grand_Port.shp: shapefile with the location of a settlement.
+	5 Mapou.shp: shapefile with the location of a settlement.
+	6 Port_Louis.shp: shapefile with the location of a settlement.
+	7 rivers_1722.shp: old shapefile containing the rivers probably used by the French.
+	8 rivers_better.shp: new shapefile containing the rivers probably used by the French.
+	9 sett_1722.shp: known settlements of the French
+	10 Trou_dEux_Douce.shp: shapefile with the location of a settlement.

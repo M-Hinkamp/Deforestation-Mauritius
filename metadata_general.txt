@@ -1,0 +1,25 @@
+This folder contains all of the data used to run the model for the bachelorthesis 'Developing a spatially explicit model for the historical deforestation on the island of Mauritius'.
+The four folders are:
+- raw: the raw data, including information about where it was retrieved from
+- modified raw: raw data which was slightly modified in order to prepare it for further processing (mainly changes in the attribute tables and names)
+- raster: the raster files created using the modified raw data. if the raw data already was a raster, it is not included in this folder.
+- ready: the input files for the model. these are all .txt files
+
+Subfolders: each data type folder may contain several sorts of data:
+- agr_suitab: the agricultural suitability
+- DEM: digital elevation model
+- dist_coast: the distance to the coast
+- forest_ext: the amount of forest cover for several years
+- slope: the slope angle based on the DEM
+- settlement: settlement locations and rivers
+
+General info:
+- Author name (student): Matthijs Hinkamp
+- University: University of Amsterdam
+- Programme: Future Planet Studies (Earth Sciences)
+- Data used for: Bachelorthesis
+- Supervisors: dr. ir. E.E. (Emiel) van Loon, dhr. S.J. (Sietze) Norder MSc
+
+All of the files, except the .txt files, can be opened using ArcGIS or a similar programme.
+
+NOTE: ALL MODIFIED DATA MAY BE USED FOR COMMERCIAL AND NON-COMMERCIAL PURPOSES. ALL THE RIGHTS FOR THE RAW DATA BELONGS TO THE ORIGINAL AUTHORS, CHECK THE LICENSE AND/OR ASK PERMISSION BEFORE USING IT.

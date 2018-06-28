@@ -1,0 +1,12 @@
+This folder contains the original data used for the model:
+- agr_suitab: agricultural suitability map of Mauritius, split up into two parts. Source: FAO (1973). agricultural suitability (Mauritius). Retrieved from: http://ref.data.fao.org/map?entryId=86d13433-159e-4351-bc42-e3ee73fce163&tab=metadata.
+- DEM: digital elevation model of Mauritius. Source: Norder, S.J., Seijmonsbergen, A.C., Rugooputh, S.D.D.V., van Loon, E.E., Tatayah, V., Kamminga, A.T. & Rijsdijk, K.F. (2017). Assessing temporal couplings in social–ecological island systems: historical deforestation and soil loss on Mauritius (Indian Ocean). Ecology and Society 22(1), art. 29. DOI: 10.5751/ES-09073-220129.
+- forest_ext: forest extent for the years 1638, 1773, 1835, 1872, 1935 and 1997. Source: Norder, S.J., Seijmonsbergen, A.C., Rugooputh, S.D.D.V., van Loon, E.E., Tatayah, V., Kamminga, A.T. & Rijsdijk, K.F. (2017). Assessing temporal couplings in social–ecological island systems: historical deforestation and soil loss on Mauritius (Indian Ocean). Ecology and Society 22(1), art. 29. DOI: 10.5751/ES-09073-220129.
+- settlement:
+	1 rivers1.tif: Map of Mauritius (Isle de France) made by Rigobert Bonne in 1791.
+	2 rivers2.tif: Map of Mauritius (Isle de France) from the Atlas maritime, Bellin, 1763.
+	3 rivers3.tif: Map of Mauritius created by Eric Gaba in 2008 based on data from the NASA Shuttle Radar Topography Mission (SRTM3 v.2).
+- acc_maps: maps used to determine the accuracy of the historical maps. The other two maps that were used are the first two maps of the settlements folder.
+	1 descubes.jpg. Map of Mauritius made by A.Descubes in 1880.
+	2 mauritius_1811.jpg: Map of Mauritius made by Bory de Sain-Vincent and Jean-Baptiste Genevieve Marcellin in 1811. 
+	3 Mauritius_Waterlow_map_1910.jpg: Map of Mauritius made by an unknown author in 1910.

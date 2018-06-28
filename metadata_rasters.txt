@@ -1,0 +1,31 @@
+This folder contains the raster files used for conversion to .txt files:
+- agr_suitab: agricultural suitability:
+	1 agr_suitab_h: agricultural suitability classes. If an area has two classes, the highest is used.
+	2 agr_suitab_l: agricultural suitability classes. If an area has two classes, the lowest is used.
+
+- dist_coast: distance to coast:
+	1 coast_dist: euclidean distance to the coast.
+
+- forest_ext: forest extent for several years:
+	1 forest_1638: forest extent in 1638.
+	2 forest_1773: forest extent in 1773.
+	3 forest_1835: forest extent in 1835.
+	4 forest_1872: forest extent in 1872.
+	5 forest_1935: forest extent in 1935.
+	6 forest_1993: forest extent in 1993.
+
+- slope: slope angle in degrees:
+	1 slope
+
+- settlement: settlements and rivers:
+	1 bat: distance map for the Baie aux Tortues settlement.
+	2 br: distance map for the Black River settlement.
+	3 flacq: distance map for the Flacq settlement.
+	4 gp: distance map for the Grand Port settlement.
+	5 mp: distance map for the mapou settlement.
+	6 pl: distance map for the Port Louis settlement.
+	7 rivers_1722: distance map for the rivers used by the French.
+	8 sett_1722: distance map for the known French settlements.
+	9 ted: distance map for the Trou d'Eaux Douce settlement.
+
+All rasters have cells of 100x100m have 524 columns and 602 rows. 
